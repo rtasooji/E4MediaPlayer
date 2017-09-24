@@ -1,4 +1,4 @@
-##Media Player with embeded client for E4 Empatica
+## Media Player with embeded client for E4 Empatica
 
 The java application provides client for Empatica E4 Wristband to store streamed data while playing a selected video clips. 
 
